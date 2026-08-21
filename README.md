@@ -2,7 +2,6 @@
 
 <p align="center">
   🎓 Final-year B.E. Computer Science Engineering @ Kongu Engineering College, Erode<br/>
-  💼 Salesforce Developer Intern @ Winfomi (Aug 2025 – Jan 2026)<br/>
   🚀 Building things today that future-me will refactor tomorrow<br/>
   📍 Tiruppur, Tamil Nadu
 </p>
