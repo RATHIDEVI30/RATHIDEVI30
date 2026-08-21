@@ -6,6 +6,10 @@
   📍 Tiruppur, Tamil Nadu
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RATHIDEVI30&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ### 🌐 Connect With Me
