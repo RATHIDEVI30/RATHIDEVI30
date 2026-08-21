@@ -75,7 +75,7 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🧩 LeetCode Status
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/RATHIDEVI_K?theme=dark&font=baloo2&ext=heatmap" />
