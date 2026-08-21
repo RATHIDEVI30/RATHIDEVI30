@@ -3,8 +3,7 @@
 <p align="center">
   🎓 Final-year B.E. Computer Science Engineering @ Kongu Engineering College, Erode<br/>
   💼 Salesforce Developer Intern @ Winfomi (Aug 2025 – Jan 2026)<br/>
-  🧠 Exploring Deep Learning, Bioinformatics-adjacent projects & UI/UX design<br/>
-  🌱 Currently building a robust plant disease classification pipeline (fog/rain/low-light conditions)<br/>
+  🚀 Building things today that future-me will refactor tomorrow<br/>
   📍 Tiruppur, Tamil Nadu
 </p>
 
@@ -76,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RATHIDEVI30&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=RATHIDEVI30&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
